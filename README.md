@@ -4,16 +4,16 @@
 ![2917282960_06beee649a_b.jpg](https://github.com/liuchenyang33/maskrcnn_balloon/blob/master/images/2917282960_06beee649a_b.jpg)
 ## 分割后气球
 
-![segment_2917282960_06beee649a_b.jpg](images\segment_2917282960_06beee649a_b.jpg)
+![segment_2917282960_06beee649a_b.jpg](https://github.com/liuchenyang33/maskrcnn_balloon/blob/master/images/segment_2917282960_06beee649a_b.jpg)
 
-步骤
+# 步骤
 	
-1、数据集读取处理和准备
+## 1、数据集读取处理和准备
 
 		
 实现数据标签文件的读取
 	
-2、模型配置文件解析与修改、模型预训练模型加载、模型构建
+## 2、模型配置文件解析与修改、模型预训练模型加载、模型构建
 
 		
 maskrcnn模型源码中Sequence封装数据集类使用
@@ -22,15 +22,15 @@ maskrcnn配置介绍
 		
 模型文件过程使用源码解析
 	
-3、模型训练过程实现
+## 3、模型训练过程实现
 
 		
 训练代码封装介绍
 	
-4、模型测试过程实现
+## 4、模型测试过程实现
 
 		* 
-图片预测结果处理
+# 图片预测结果处理
 
 
 
