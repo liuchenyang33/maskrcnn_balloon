@@ -1,6 +1,8 @@
 # maskrcnn_balloon
+## 分割前气球
 
-![2917282960_06beee649a_b.jpg](images\2917282960_06beee649a_b.jpg)
+![2917282960_06beee649a_b.jpg](https://github.com/liuchenyang33/maskrcnn_balloon/blob/master/images/2917282960_06beee649a_b.jpg)
+## 分割后气球
 
 ![segment_2917282960_06beee649a_b.jpg](images\segment_2917282960_06beee649a_b.jpg)
 
